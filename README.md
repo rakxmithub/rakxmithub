@@ -151,8 +151,3 @@ manitayefi123@gmail.com
 MANI TAYEFI · AI ENGINEER · PYTHON · RAG · LLM APPLICATIONS
 
 </div>
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mani%20Tayefi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mani-tayefi-84b279437)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Mani%20Tayefi-111111?style=for-the-badge&logo=googlechrome)](https://rakxmithub.github.io/)
