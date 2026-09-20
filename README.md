@@ -5,18 +5,18 @@ AI ENGINEER · PYTHON · RAG · LLM APPLICATIONS
 Building practical AI applications, retrieval systems, and intelligent software.
 
 <br><a href="https://rakxmithub.github.io/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Mani Tayefi AI Engineer Portfolio"/>
+</a> 
+
 <a href="https://www.linkedin.com/in/mani-tayefi-84b279437">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mani Tayefi on LinkedIn"/>
+</a> 
+
 <a href="mailto:manitayefi123@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mani Tayefi"/>
 </a><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rakxmithub&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/></div>---
+<img src="https://komarev.com/ghpvc/?username=rakxmithub&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="GitHub profile views"/></div>---
 
 👋 About Me
 
@@ -50,13 +50,13 @@ Intelligent Systems| Practical systems combining AI models and software engineer
 
 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python and PyTorch"/><img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" alt="LLMs"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python and PyTorch"/><img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="Retrieval-Augmented Generation"/>
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" alt="Large Language Models"/>
 <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge" alt="LangChain"/>
 <img src="https://img.shields.io/badge/Embeddings-0891B2?style=for-the-badge" alt="Embeddings"/>
 <img src="https://img.shields.io/badge/Vector_Search-059669?style=for-the-badge" alt="Vector Search"/>Development
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Development technologies"/>---
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Python JavaScript HTML CSS Git GitHub VS Code"/>---
 
 🚀 Featured Projects
 
@@ -66,7 +66,7 @@ A modular Retrieval-Augmented Generation system for document ingestion, embeddin
 
 Python · LangChain · ChromaDB · RAG · Embeddings · BM25 · Reranking
 
-→ "View Project" (https://github.com/rakxmithub/project-RAG)
+→ "View Modular RAG Project" (https://github.com/rakxmithub/project-RAG)
 
 ---
 
@@ -76,7 +76,7 @@ My personal portfolio showcasing AI engineering projects, technical interests, i
 
 HTML · CSS · JavaScript · SEO · GitHub Pages
 
-→ "Visit Portfolio" (https://rakxmithub.github.io/)
+→ "Visit Mani Tayefi's AI Engineer Portfolio" (https://rakxmithub.github.io/)
 
 ---
 
@@ -86,7 +86,7 @@ Python application for retrieving and displaying live Iranian currency exchange 
 
 Python · Tkinter · REST API · JSON
 
-→ "View Project" (https://github.com/rakxmithub/iran-live-currency-dashboard)
+→ "View Currency Dashboard" (https://github.com/rakxmithub/iran-live-currency-dashboard)
 
 ---
 
@@ -96,7 +96,7 @@ Python-based network diagnostic software for checking network connectivity and s
 
 Python · Networking · Diagnostics · Windows
 
-→ "View Project" (https://github.com/rakxmithub/netx-network-diagnostic)
+→ "View NetX Project" (https://github.com/rakxmithub/netx-network-diagnostic)
 
 ---
 
@@ -133,16 +133,16 @@ My goal is to turn AI concepts into practical software while continuously improv
 🔗 Find Me Online
 
 🌐 Portfolio
-https://rakxmithub.github.io/
+"Mani Tayefi — AI Engineer Portfolio" (https://rakxmithub.github.io/)
 
 💼 LinkedIn
-https://www.linkedin.com/in/mani-tayefi-84b279437
+"Mani Tayefi on LinkedIn" (https://www.linkedin.com/in/mani-tayefi-84b279437)
 
 🐙 GitHub
-https://github.com/rakxmithub
+"Mani Tayefi on GitHub" (https://github.com/rakxmithub)
 
 ✉️ Email
-manitayefi123@gmail.com
+"Email Mani Tayefi" (mailto:manitayefi123@gmail.com)
 
 ---
 
