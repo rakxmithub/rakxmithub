@@ -1,259 +1,197 @@
 <div align="center"><a href="https://rakxmithub.github.io/">
-  <img src="https://raw.githubusercontent.com/rakxmithub/rakxmithub.github.io/main/assets/og-image.jpg" width="100%" alt="Mani Tayefi — AI Engineer, RAG and LLM Applications">
-</a><br>Mani Tayefi
+<img src="https://raw.githubusercontent.com/rakxmithub/rakxmithub.github.io/main/assets/og-image.jpg" width="100%" alt="Mani Tayefi AI Engineer Portfolio">
+</a><br><br>
+
+MANI TAYEFI
 
 AI Engineer · Python · RAG · LLM Applications
 
-Building practical Artificial Intelligence applications with Python, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), semantic search, and intelligent software systems.
+Building practical AI systems with Python, Retrieval-Augmented Generation, Large Language Models, and intelligent software.
 
 <br><a href="https://rakxmithub.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Mani Tayefi AI Engineer Portfolio">
-</a>
-&nbsp;
-<a href="https://github.com/rakxmithub">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mani Tayefi GitHub Profile">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Mani Tayefi AI Engineer Portfolio">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mani-tayefi-84b279437">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mani Tayefi LinkedIn">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mani Tayefi LinkedIn">
 </a>
 &nbsp;
 <a href="mailto:manitayefi123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Mani Tayefi">
+<img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Mani Tayefi">
 </a><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rakxmithub&label=Profile%20Views&color=7C3AED&style=flat-square" alt="GitHub profile views"></div>---
+<img src="https://komarev.com/ghpvc/?username=rakxmithub&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Mani Tayefi GitHub profile views"></div>---
 
-About Me
+👋 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/rakxmithub/rakxmithub.github.io/main/assets/mani-tayefi.jpg" width="190" alt="Mani Tayefi AI Engineer">I'm Mani Tayefi, an AI Engineer focused on Python, RAG systems, LLM applications, and information retrieval.
+<img align="right" src="https://raw.githubusercontent.com/rakxmithub/rakxmithub.github.io/main/assets/mani-tayefi.jpg" width="180" alt="Mani Tayefi AI Engineer">I'm Mani Tayefi, an AI Engineer focused on building practical applications around Artificial Intelligence, Python, RAG, and Large Language Models.
 
-I enjoy turning AI concepts into practical software — from document question answering and semantic search to intelligent applications that connect data, retrieval pipelines, and language models.
+My main interests are:
 
-My main interests are at the intersection of:
+- 🤖 AI Engineering & Machine Learning
+- 🧠 Large Language Models
+- 🔎 Retrieval-Augmented Generation
+- 🗂️ Information Retrieval & Semantic Search
+- 🧬 Embeddings & Vector Search
+- ⚡ Intelligent Software Applications
 
-Artificial Intelligence · Software Engineering · Information Retrieval
-
-Core Areas
-
-- Artificial Intelligence & Machine Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Semantic Search & Embeddings
-- Vector Search
-- Hybrid Retrieval
-- BM25
-- Reranking
-- Query Rewriting
-- Conversational AI
-- Python AI Engineering
+I enjoy turning AI concepts into working software, experiments, and useful systems.
 
 <br clear="right"/>---
 
-What I Build
+🧠 What I'm Working With
 
 <table>
-<tr><td width="33%" valign="top">🤖 AI Applications
+<tr><td width="50%" valign="top">AI Engineering
 
-Practical applications powered by LLMs, Python, retrieval pipelines, and intelligent software components.
+"Python"
+"RAG"
+"LLMs"
+"LangChain"
+"Embeddings"
+"Vector Search"
+"Semantic Search"
+"Reranking"
 
-</td><td width="33%" valign="top">🔎 Retrieval Systems
+</td><td width="50%" valign="top">Software Development
 
-RAG, embeddings, vector search, BM25, hybrid retrieval, reranking, and contextual search.
-
-</td><td width="33%" valign="top">⚙️ Intelligent Software
-
-Systems that connect data → retrieval → reasoning → AI models → useful applications.
+"Python"
+"JavaScript"
+"HTML"
+"CSS"
+"Git"
+"GitHub"
+"VS Code"
+"Three.js"
 
 </td></tr>
 </table>---
 
-Featured Projects
+🚀 Featured Projects
 
 <table>
-<tr><td width="50%" valign="top">🔬 Modular RAG System
+<tr><td width="50%" valign="top">🔬 RAG System
 
-A modular Retrieval-Augmented Generation pipeline for document-based question answering.
+A modular Retrieval-Augmented Generation system for document-based question answering.
 
-Focus
+Stack
 
-"Python" "LangChain" "Embeddings"
-"Vector Search" "BM25" "Hybrid Retrieval"
-"Reranking" "LLMs"
+"Python" · "LangChain" · "ChromaDB"
+"Embeddings" · "BM25" · "Hybrid Retrieval"
+"Reranking" · "LLMs"
 
 <a href="https://github.com/rakxmithub/project-RAG">
-<strong>View RAG Project →</strong>
+<strong>View Project →</strong>
 </a></td><td width="50%" valign="top">🌐 AI Engineer Portfolio
 
-An interactive personal portfolio focused on AI engineering, projects, experiments, technical interests, and modern web experiences.
+My personal portfolio for showcasing AI projects, software experiments, technical work, and interactive web experiences.
 
-Focus
+Stack
 
-"AI Engineering" "3D Web" "Interactive UI"
-"Animations" "Responsive Design" "SEO"
+"HTML" · "CSS" · "JavaScript"
+"Three.js" · "Responsive UI" · "SEO"
 
 <a href="https://rakxmithub.github.io/">
 <strong>Visit Portfolio →</strong>
 </a></td></tr><tr><td width="50%" valign="top">🖥️ NetX
 
-A Python-based network diagnostic system for examining connectivity, DNS behavior, and network health.
+A Python network diagnostic tool for analyzing connectivity, DNS, ping, and network information.
 
-Technologies
+Stack
 
-"Python" "Networking" "DNS" "Ping" "JSON"
+"Python" · "Networking" · "DNS" · "JSON"
 
 <a href="https://github.com/rakxmithub/netx-network-diagnostic">
-<strong>View NetX →</strong>
+<strong>View Project →</strong>
 </a></td><td width="50%" valign="top">🎮 Miller Family
 
-A browser-based first-person horror prototype combining interactive storytelling, 3D environments, and gameplay.
+A browser-based 3D horror prototype combining interactive storytelling, gameplay, and web technologies.
 
-Technologies
+Stack
 
-"Three.js" "JavaScript" "Flask" "3D Web"
+"Three.js" · "JavaScript" · "Flask" · "3D Web"
 
 </td></tr>
 </table>---
 
-RAG Engineering
+🔎 RAG & Information Retrieval
 
-Retrieval-Augmented Generation (RAG) is one of my primary areas of focus.
+One of my main areas of interest is building systems that can retrieve the right information before generating an answer.
 
-My approach is centered around improving how information is processed, retrieved, ranked, and passed to language models as context.
-
-flowchart LR
-    A[User Query] --> B[Query Rewriting]
-    B --> C[Hybrid Retrieval]
-    C --> D[Vector Search]
-    C --> E[BM25]
-    D --> F[Candidate Documents]
-    E --> F
-    F --> G[Reranking]
-    G --> H[Relevant Context]
-    H --> I[LLM]
-    I --> J[Generated Answer]
-
-Retrieval Pipeline
-
-Stage| Concepts
-Documents| Document Processing
-Preparation| Chunking
-Representation| Embeddings
-Retrieval| Vector Search
-Retrieval Strategy| Hybrid Retrieval · BM25
-Ranking| Reranking
-Context| Context Selection
-Generation| Large Language Models
-
----
-
-Technical Stack
-
-AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python and PyTorch">
-</p>"Artificial Intelligence" "Machine Learning" "LLMs" "RAG"
-"Embeddings" "Vector Search" "Information Retrieval" "Reranking"
-
-AI Engineering & Data Retrieval
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
-<img src="https://img.shields.io/badge/ChromaDB-5A4FCF?style=for-the-badge&logoColor=white" alt="ChromaDB">
-<img src="https://img.shields.io/badge/BM25-111827?style=for-the-badge&logoColor=white" alt="BM25">
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white" alt="Retrieval-Augmented Generation">
-</p>Programming & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Python JavaScript HTML CSS Git GitHub VS Code">
-</p>Web & Interactive Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,threejs&theme=dark" alt="HTML CSS JavaScript Three.js">
-</p>---
-
-Engineering Approach
-
-I think about AI applications as systems, not isolated models.
-
-DATA
-  ↓
-PROCESSING
-  ↓
-REPRESENTATION
-  ↓
-RETRIEVAL
-  ↓
-RANKING
-  ↓
-CONTEXT
-  ↓
+User Query
+     ↓
+Query Rewriting
+     ↓
+Hybrid Retrieval
+ ↙           ↘
+Vector       BM25
+Search
+ ↘           ↙
+Candidate Documents
+     ↓
+Reranking
+     ↓
+Relevant Context
+     ↓
 LLM
+     ↓
+Answer
+
+Focus: "RAG" · "Semantic Search" · "Embeddings" · "Vector Search" · "BM25" · "Hybrid Retrieval" · "Reranking"
+
+---
+
+🛠️ Tech Stack
+
+<p align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,js,html,css,git,github,vscode&theme=dark" alt="Python PyTorch JavaScript HTML CSS Git GitHub VS Code"></p><p align="center"><img src="https://skillicons.dev/icons?i=threejs,flask&theme=dark" alt="Three.js Flask"></p><div align="center">"Python" · "PyTorch" · "LangChain" · "RAG" · "LLMs" · "ChromaDB"
+"JavaScript" · "Three.js" · "Flask" · "Git" · "GitHub"
+
+</div>---
+
+🎯 Current Focus
+
+Python
   ↓
-APPLICATION
+Machine Learning
+  ↓
+AI Engineering
+  ↓
+RAG Systems
+  ↓
+LLM Applications
+  ↓
+Intelligent Software
 
-The goal is to build software where relevant information, retrieval quality, model capabilities, and application logic work together.
+Currently exploring:
 
----
-
-Current Focus
-
-I'm currently exploring and building around:
-
-AI Engineering| Retrieval| Applications
-LLM Applications| Semantic Search| Conversational AI
-RAG Systems| Vector Search| Intelligent Software
-AI Architecture| Hybrid Retrieval| AI Applications
-Prompt Engineering| Reranking| Software Systems
+RAG architectures · LLM applications · information retrieval · semantic search · AI agents · Python engineering
 
 ---
 
-Learning & Building
+🌌 Beyond the Code
 
-My current direction is centered around deepening practical skills in:
+I like building things that combine:
 
-Python → Data & Machine Learning → AI Engineering → RAG → LLM Applications → Intelligent Systems
+Technology + AI + Design + Software
 
-I learn by turning concepts into working projects, experimenting with architectures, and improving systems through iteration.
+From AI-powered applications and retrieval systems to interactive web experiences, I enjoy experimenting with ideas and turning them into something people can actually use.
 
 ---
 
-Portfolio
+🌐 Explore My Work
 
-My personal portfolio brings together my AI projects, software experiments, technical interests, and web development work.
+<div align="center"><a href="https://rakxmithub.github.io/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20AI%20ENGINEERING%20PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Mani Tayefi AI Engineering Portfolio"></a><br><br>
 
-Design Direction
-
-"Dark UI" · "Glass UI" · "3D Elements" · "Interactive Experiences"
-"Motion" · "Responsive Design" · "Modern Web" · "SEO"
-
-<div align="center"><a href="https://rakxmithub.github.io/">
-  <img src="https://img.shields.io/badge/EXPLORE%20MANI%20TAYEFI'S%20PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Mani Tayefi AI Engineer Portfolio">
-</a></div>---
-
-Connect
-
-<div align="center">Have an AI idea?
-
-Let's turn it into a system.
-
-<br><a href="https://rakxmithub.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Mani Tayefi Portfolio">
-</a>
-&nbsp;
 <a href="https://github.com/rakxmithub">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mani Tayefi GitHub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mani Tayefi GitHub">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mani-tayefi-84b279437">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mani Tayefi LinkedIn">
-</a>
-&nbsp;
-<a href="mailto:manitayefi123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mani Tayefi">
-</a><br><br>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mani Tayefi LinkedIn">
+</a></div>---
 
-<sub>Mani Tayefi · AI Engineer · Python · RAG · LLM Applications</sub>
+<div align="center">Building AI systems, one project at a time.
 
-</div>
+<br><sub>
+Mani Tayefi · AI Engineer · Python · RAG · LLM Applications
+</sub></div>
